@@ -6,7 +6,8 @@ namespace Leeftijdberekenen
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Dit is een programma om uw leeftijd te berekenen");
+            
         }
     }
 }
