@@ -11,8 +11,9 @@ namespace Leeftijdberekenen
             Console.WriteLine("Dit is een programma om uw leeftijd te berekenen");
             Console.WriteLine("Geef je geboortedatum in. (DD/MM/YYYY)");
             string geboortedatum = Console.ReadLine();
-            Convert.ToDateTime(geboortedatum);
-
+            DateTime geboorte = Convert.ToDateTime(geboortedatum);
+            double leeftijd = (datenow - geboorte).TotalDays;
+            Console.WriteLine(leeftijd/365);
         }
     }
 }
