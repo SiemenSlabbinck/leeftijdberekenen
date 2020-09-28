@@ -13,7 +13,7 @@ namespace Leeftijdberekenen
             string geboortedatum = Console.ReadLine();
             DateTime geboorte = Convert.ToDateTime(geboortedatum);
             double leeftijd = (datenow - geboorte).TotalDays;
-            Console.WriteLine(leeftijd/365);
+            Console.WriteLine("Je bent " + leeftijd/365 + "jaar oud");
         }
     }
 }
