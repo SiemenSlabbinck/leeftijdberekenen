@@ -1,0 +1,13 @@
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\bin\Debug\netcoreapp3.1\Leeftijdberekenen.exe
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\bin\Debug\netcoreapp3.1\Leeftijdberekenen.deps.json
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\bin\Debug\netcoreapp3.1\Leeftijdberekenen.runtimeconfig.json
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\bin\Debug\netcoreapp3.1\Leeftijdberekenen.runtimeconfig.dev.json
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\bin\Debug\netcoreapp3.1\Leeftijdberekenen.dll
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\bin\Debug\netcoreapp3.1\Leeftijdberekenen.pdb
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\obj\Debug\netcoreapp3.1\Leeftijdberekenen.csprojAssemblyReference.cache
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\obj\Debug\netcoreapp3.1\Leeftijdberekenen.csproj.CoreCompileInputs.cache
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\obj\Debug\netcoreapp3.1\Leeftijdberekenen.AssemblyInfoInputs.cache
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\obj\Debug\netcoreapp3.1\Leeftijdberekenen.AssemblyInfo.cs
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\obj\Debug\netcoreapp3.1\Leeftijdberekenen.dll
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\obj\Debug\netcoreapp3.1\Leeftijdberekenen.pdb
+D:\School\Software Engineering\leeftijdberekenen\leeftijdberekenen\Leeftijdberekenen\obj\Debug\netcoreapp3.1\Leeftijdberekenen.genruntimeconfig.cache
